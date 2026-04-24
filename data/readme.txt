@@ -1,3 +1,5 @@
+반디집 프로그램을 설치하여, 압축파일을 해제해야 합니다.
+
 5)Variables  
 5-0)Basic variables  
 데이터 row는 game_id(한 경기에 대한 identifier number), play_id(한 경기에서 선수의 play를 기록한 identifier, play_id와 player(nfl_id으로 구분한다)가 같은 데이터 행에 대해서는 frame_id이 time index 역할을 한다), frame_id (한 플레이에서 time index).
